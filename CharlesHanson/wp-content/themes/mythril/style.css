@@ -1,0 +1,25 @@
+/*
+Theme Name: Mythril
+Author: Mythril Web Team
+*/
+
+/*
+ * Use the SCSS instead!
+ */
+
+
+.about{
+s
+
+}
+
+p.about_details{
+  text-align: left !important;
+}
+
+.about h3{
+  /* margin: 1em 0; */
+}
+#navigation ul{
+  background: white !important;
+}
